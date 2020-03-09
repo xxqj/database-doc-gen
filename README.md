@@ -1,9 +1,11 @@
 # springboot实现数据库文档生成器 2.0
+因为工作需要，我改造支持国产数据库达梦
 
 > 原项目地址 [database-doc-generator](https://github.com/enilu/database-doc-generator)
 >
 > 使用springboot对原项目进行改造
-
+https://github.com/hacker-and-painter/database-doc-generator
+> 因为工作需要，我改造支持国产数据库达梦
 ## 1. 功能介绍
 
 根据数据库表DDL生成markdown文档，支持Mysql、postgresql等数据库
