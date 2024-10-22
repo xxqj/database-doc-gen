@@ -11,6 +11,7 @@ https://github.com/hacker-and-painter/database-doc-generator
 根据数据库表DDL生成markdown文档，支持Mysql、postgresql等数据库
 
 ## 2. 快速使用
+QQ交流2群：941955968
 
 idea打开项目, 运行项目后，在浏览器上打开swagger地址，填写数据库参数，执行generator接口
 
